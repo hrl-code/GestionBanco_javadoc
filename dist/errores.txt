@@ -1,0 +1,31 @@
+HR_Persona.java (línea 58-63)
+Error: Orden incorrecto de campos en toString
+Error: Etiqueta "Nombre:" antes de la fecha
+
+HR_Ahorro.java (línea 65-71)
+Error: Error tipográfico "AHRORO" en lugar de "AHORRO"
+Error: Muestra interés como saldo
+
+HR_Bancaria.java (línea 150-155)
+Error: Método ingresar reemplaza saldo en lugar de sumar
+
+HR_Bancaria.java (línea 165-170)
+Error: Método reintegro asigna cantidad retirada al saldo
+Error: No verifica saldo disponible
+
+HR_Personal.java (línea 95-98)
+Error: Uso incorrecto del símbolo de moneda
+Error: Formato inconsistente en entidades
+
+HR_Empresa.java (línea 115-118)
+Error: Uso incorrecto del símbolo de moneda
+Error: Inconsistencia en formato de entidades
+
+HR_Ahorro.java (línea 35-38)
+Error: Asignación incorrecta en setDisponible
+
+HR_Personal.java (línea 75-78)
+Error: Asignación incorrecta en setDisponible
+
+HR_ListadoCuentas.java (línea 150-160)
+Error: Sobrescribe texto en lugar de concatenar en listado de cuentas
